@@ -52,22 +52,18 @@ flowchart TD
 
 ## 🧩 Core Modules
 
-| Module | Description | Port |
+| Module | Description | 
 | :--- | :--- | :--- |
 | **`RAG.py`** | Central vector database service managing ChromaDB collections (`news`, `socials`, `user_inputs`) with Ollama `nomic-embed-text` embeddings. | 
-| **`bravo.py`** | Multi-agent news workflow built with Google ADK (`SequentialAgent`, `Runner`) orchestrating Discovery, Page Classification, and Scraping. |  |
-| **`bravo-backend.py`** | Search-First, RAG-Second hybrid API that dynamically searches, summarizes, stores into ChromaDB, and compiles structured situation reports. |  |
-| **`social_media_agent.py`** | Apify-powered Twitter/X scraper extracting eyewitness reports, public sentiment, and urgent relief needs, with combined report synthesis. | |
-| **`social_agent_api.py`** | FastAPI endpoints for social data ingestion and report generation. | |
-| **`disaster_api.py`** | Standalone disaster reporting API service with synchronous RAG fact augmentation. | |
-| **`mapper.py`** | Geospatial analytics module using OpenStreetMap Overpass API, OSMnx, and Gemini Multimodal Vision for damage and evacuation corridor analysis. |  |
+| **`bravo.py`** | Multi-agent news workflow built with Google ADK (`SequentialAgent`, `Runner`) orchestrating Discovery, Page Classification, and Scraping. |  
+| **`bravo-backend.py`** | Search-First, RAG-Second hybrid API that dynamically searches, summarizes, stores into ChromaDB, and compiles structured situation reports. | 
+| **`social_media_agent.py`** | Apify-powered Twitter/X scraper extracting eyewitness reports, public sentiment, and urgent relief needs, with combined report synthesis. | 
+| **`social_agent_api.py`** | FastAPI endpoints for social data ingestion and report generation. | 
+| **`disaster_api.py`** | Standalone disaster reporting API service with synchronous RAG fact augmentation. | 
+| **`mapper.py`** | Geospatial analytics module using OpenStreetMap Overpass API, OSMnx, and Gemini Multimodal Vision for damage and evacuation corridor analysis. |  
 
 ---
 
 
 ```
 
----
-
-## 📜 License
-MIT License. Developed for educational, hackathon, and crisis management research purposes.
