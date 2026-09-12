@@ -1,0 +1,21 @@
+URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAJvoYPxexj9rvoAezEGnI_oBDvKtEzGKmfYuKbYZj7RXxzEtUSaYGDcj2KDJCC2pMSu_AY7OBHblSUkbJBtv_Mx3a1ANNg6pyQ7EOeCK86PTG6GdyBoG7ZKbcfCgwMBUEj0-egxPnTqZXt1eiS2TkEVf3RcqS3YymLHX9i2STGae7VKDsGvibZsCurl83mrd6uWxNg8Z660kNcrj6v0k2RdM4zpCzkyQnBzUbQ05tGYGF9WC8OqC0D7ELVLUCRb
+
+**1. What happened:**
+
+The news bulletin discusses the role of dam management in exacerbating the Kerala floods. Experts and officials acknowledge that India lacks scientific decision support systems for managing water reservoirs and releasing water from dams. This mismanagement contributed to the severity of the floods.
+
+**2. When it happened:**
+
+The article references the Kerala floods of August 2018. The interviews and reports cited date from August 21st to August 26th, 2018.
+
+**3. Impact:**
+
+The bulletin doesn't provide specific numbers on casualties, damage, or displaced people. However, it suggests that flood damages could have been reduced by 20-40% with better dam management.
+
+**4. Response efforts:**
+
+The article does not describe specific response efforts, but focuses on the need for improved flood warning systems and decision support systems for dam operations. It highlights the lack of a flood warning system in Kerala, and the absence of mechanisms to effectively deploy existing tools for anticipating extreme weather events.
+
+**5. Current status:**
+
+The article is from 2018 and doesn't provide information on the current status. It emphasizes the need for implementing scientific methods and decision support systems for dam management in the future.

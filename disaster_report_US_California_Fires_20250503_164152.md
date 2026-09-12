@@ -1,0 +1,1 @@
+It is impossible to complete this prompt. The provided sources are about the Kerala, India floods of 2018, and Google search results indicating an absence of information. Therefore, there is no source information to use to generate a report about California Fires.

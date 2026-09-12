@@ -1,0 +1,56 @@
+{
+  "event_name": "Alappuzha Floods",
+  "start_date": "2018-08-08",
+  "end_date": "2018-08-15",
+  "sources": [
+    {
+      "url": "https://www.google.com/search?q=time+in+IN",
+      "title": "Current time information in IN.",
+      "description": "The time at the location 'IN' is 11:29 AM."
+    },
+    {
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAL7JtPbbGKCs-O8wxZVbSauibztWfdht6pmW8goc49zIc2TUjp9B6OJSU4Muxu4Oclet_Fwy4kZ-uqVFPzcOXRsEi6eyUpOSAxna0gH9vvLKTQ3gCZupaRq5e51asz8milJtOWVYbnOlx7qlCjIXseZls-H3lS0ah-22A==",
+      "title": "Kerala Underwater: The Devastating <b>Floods</b> of 2018 - India Weather Blog",
+      "description": "The Kerala floods of 2018 were a series of devastating floods that hit the southern Indian state of Kerala in August 2018, affecting all 14 districts, including Alappuzha, and resulting in the displacement of over 1 million people and the loss of over 483 lives [3].",
+      "summary": "In August 2018, the state of Kerala in southern India experienced devastating floods due to unusually heavy rainfall (42% above normal) and overflowing rivers and dams. All 14 districts were affected, with Alappuzha, Ernakulam, Thrissur, and Wayanad among the worst hit. The floods lasted over a month, causing widespread destruction and displacement.\n\nThe impact was immense, with over 1 million people displaced and at least 483 lives lost. Thousands of houses and buildings were damaged or destroyed, and the economic losses were estimated to be over $3 billion. The heavy rainfall was exacerbated by factors such as overfilled dams, deforestation in the Western Ghats, and encroachment on floodplains. While a direct link is hard to establish, climate change is believed to have contributed to the extreme weather.\n\nThe response to the disaster was massive, involving the Indian Army, Navy, and Air Force in rescue and relief operations. The Kerala government launched a large-scale relief effort, providing food, shelter, and medical assistance. Civil society organizations, NGOs, and private companies contributed donations and support. Relief camps and distribution centers were established to aid those affected.\n\nThe floods highlighted the need for improved water management, disaster preparedness, and community engagement in India. The event also demonstrated the resilience and generosity of the Indian people.\n"
+    },
+    {
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAKK-bQlVOxR6WFpazW8ktXtp2MnAEMCKquYstGiZNQCza3UsHaBytw2_2pkd1ZIQYybLOeoJ70C7lhKRfGkaJ0SB8-5PaP440kd-uAuhGZU_3ylOwzpCUUMf4NhwHfzDoVraE2c4L2IyQBBS8W8J-07IPA=",
+      "title": "<b>Flood</b> in India on 09 August, 2018 - Sentinel Asia",
+      "description": "The situation in Kerala worsened on August 10, 2018, with the opening of dam gates and heavy rainfall, leading to a red alert in eight districts, including Alappuzha [4].",
+      "summary": "On August 9, 2018, Kerala, India experienced a severe flooding event that worsened significantly by August 10, 2018. The situation escalated due to the opening of all five sluice gates of the Idukki dam, along with the lifting of shutters on over two dozen other dams. This resulted in the submergence of vast areas of the state, which was already experiencing unprecedented rainfall levels not seen in decades.\n\nThe impact was devastating, with the death toll reaching 29 in the 48 hours leading up to August 10, and further reports indicating the loss of lives in the prior 24 hours. Eight districts \u2013 Wayanad, Idukki, Alapuzzha, Kottayam, Ernakulam, Palakkad, Malappuram, and Kozhikode \u2013 were placed on red alert, signifying the severity of the situation.\n\nIn response to the disaster, 439 relief camps were established across the state. These camps provided shelter to over 50,000 displaced individuals, highlighting the scale of the displacement caused by the floods. The opening of the dam gates worsened the floods, impacting a huge part of the state.\n\nThe content's current status reflects the acute phase of the disaster, emphasizing the ongoing downpour and the immediate aftermath of the dam releases. The focus is on rescue and relief efforts, as well as managing the displacement of a significant portion of the population.\n"
+    },
+    {
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAIwcizCkKFsd25juzuPgSS0vE8skSPHFse-7AAfZ9hwG92aE123xlDCdz7S8s9tmTIIddPPC2ag9Xpu54GnV2scj9HEkms8fwNNGzRRO148-0FN8fLy773QQJkoVRPfOfOQrhs8Wz88rMA=",
+      "title": "Kerala <b>Floods</b> 2018 - NIDM",
+      "description": "Kerala experienced severe flooding between August 8th and 17th, 2018, with Alappuzha being one of the seven most affected districts, impacting 5.4 million people and displacing 1.4 million [5].",
+      "summary": "Based on the provided text, it is impossible to provide a comprehensive summary of the disaster event in Kerala in 2018. The text only indicates a **failed attempt to scrape content from a specific URL related to the Kerala floods of 2018.**\n\nHere's what we *can* glean from the information:\n\n1.  **What happened:** A disastrous flood event occurred in Kerala. (The URL name includes \"KeralaFlood_18.pdf\")\n\n2.  **When it happened:** The event took place in 2018.\n\nThe attempted scrape failed due to an SSL certificate verification error, which prevented the system from accessing the PDF document located at `nidm.gov.in/PDF/pubs/KeralaFlood_18.pdf`. This document likely contained information about the flood, including details about its impact, response efforts, and current status, but the system couldn't retrieve it. Therefore, no information about casualties, damage, displaced people, response efforts, or the current status of the situation can be extracted.\n\nIn short, the text confirms that a flood occurred in Kerala in 2018, and that a document containing information on the event exists on `nidm.gov.in`, but technical difficulties prevented its content from being accessed.\n"
+    },
+    {
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAIQGKI81aoVb_W4mSeoz-V-ufvn-9TPc_qmzhKcoWJfPS9mC3uEPFbAtQ7m3WwW5LuE5U6870F5apDBiWgZt_6MyPmztZCODDAu_CzF9l1riKr36Xj1Ivh35gNaYVkS-YVsncXkNeSUJYkKMx3oZqd5q47mVLy4hQ5EPHqF",
+      "title": "India \u2013 Over 300 Dead in Kerala <b>Floods</b> Described as Worst in 100 Years - FloodList",
+      "description": "The Kerala floods in mid-August 2018 were described as the worst in 100 years, causing significant damage in Alappuzha [6].",
+      "summary": "In August 2018, Kerala, India, experienced its worst flooding in 100 years, resulting in a significant disaster. As of August 17, 324 people had lost their lives, and over 300,000 were displaced, seeking refuge in 2,094 relief camps across the state. The total flooded area in Kerala had expanded from 28,737 hectares on August 14 to 50,119 hectares by August 17, with Alappuzha and Kottayam districts being particularly affected. 80 dams were opened across the state in response to the deluge.\n\nA large-scale rescue, relief, and evacuation operation was launched, involving thousands of personnel from the Indian Navy, Air Force, Army, National Disaster Response Force (NDRF), and Central Armed Police Forces (CAPF). These efforts were supported by numerous helicopters, aircraft, and motorboats, resulting in 82,442 rescues by August 17.\n\nPrime Minister Narendra Modi visited the affected areas on August 18 to assess the damage and express his condolences. By August 19, the heavy rains had begun to ease, and floodwaters were slowly receding in some areas. The focus shifted to providing emergency supplies of food, water, and medicines, and restoring essential services like power, fuel, telecom, and transport. Medical relief camps were established to combat the threat of increased disease. The Ministry of Health and Family Welfare was coordinating with other states to augment medicine supplies. It was anticipated that the death toll would rise as floodwaters receded.\n"
+    },
+    {
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAJtb9fEuFIikNWjyKxl9xS2FH2HvKaq2b09ZpYLXhJYQX7i2QOVWarXg1auYVSmo9psYYMkM1Y_8U15eE-xQr88rBrIghW7u0vE3oViOu2nzUhnDJXCcReLHVZXfATBUFHHOrBzeQbAXtSS9xJg4gY5joBa8280ZIyVEKpDcXncz_E1rhSX1BkWkUK8Y3Xop3Dl-5Emzp_h3htUEkUwWLqhAIseUu85ty0jiQdK",
+      "title": "Evaluating the 2018 extreme flood hazard events in Kerala, India - ResearchGate",
+      "description": "In August 2018, Alappuzha was severely affected by floods, with Sentinel-1A SAR-based inundation mapping showing significant flooding in the district [7]."
+    },
+    {
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAL35IIhIR2pZgJsP1bIAMUIffPYIfaNnsz_HN6jjWGFL-3Z_LUZtdNl6H5Z2_w-nAUe6p0diNp7LVqFk3I7gaIBVwT03dPc2-n94VYwUbkyH8bWHJFRqLJROKOnWBsfarXf_Vz4YSsgkRthX5ZQdkaF_R1udr94TQKwkyC2mGplsFqUq-wNYOzYkpCeNz2_dtDiDcDXGoOlqpmxJ41i7YkGSHBhW0zCQ-lWrWkA",
+      "title": "India: <b>Floods</b> in Kerala - ACAPS",
+      "description": "As of August 14, 2018, Kerala was facing its worst monsoon season since 1924, causing severe flooding and landslides, with over 60,000 people evacuated to relief camps [8]."
+    },
+    {
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAJS5IoJGVzyaK60oelaOe7ekGtYdL7VrKwyxWQEhFCm9mY1mJXiaJF_3xqRzM9D-f5wWaiLbbfnpgwaNKvd2cZt6aSXGTIU5zwAziZTwiZskjm_zKaQMqYgya39XDieKAAEdCkStcwSniYSz7Q-LNJukLNjlGCjm6ES1gtMIcMSzOyDDUANIcIuHyE8",
+      "title": "Kerala Floods \u2013 2018",
+      "description": "During the peak spell of rains from August 8th to 17th, 2018, Kerala experienced unprecedented rainfall, leading to extreme floods, with the severity increased by high tides [9]."
+    },
+    {
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAITYLmjnd8kJt4Z8ewASinrwuhRhVhIEUvLXOUJ_DZBwTH7JN6hqMvH5sOuxmS7SzRpRGDYmDpUIuqoS_x2maziG6pI943Mw0TYSMIqpTN6PtDTtUnGzs33bkcm0JfYUWluX4sh8JbRQYphYvHHyd32vl4zwSlFwnhUa5bUevZIbM_WOS5LHoq_JmTAbZsI_bm1u5QYsdbvhQ==",
+      "title": "Kerala <b>Flood 2018</b> and the Socio-Economic Deprivation of Households in <b>Alappuzha</b> District - NIDM",
+      "description": "In August 2018, Kerala faced unforeseen floods affecting natural and human resources, with the Alappuzha district being highly impacted [10]."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAL7JtPbbGKCs-O8wxZVbSauibztWfdht6pmW8goc49zIc2TUjp9B6OJSU4Muxu4Oclet_Fwy4kZ-uqVFPzcOXRsEi6eyUpOSAxna0gH9vvLKTQ3gCZupaRq5e51asz8milJtOWVYbnOlx7qlCjIXseZls-H3lS0ah-22A==
+
+Here are the facts extracted from the provided text, organized by category:
+
+**1. Event Details:**
+
+*   The Kerala floods of 2018 hit the southern Indian state of Kerala in August 2018.
+*   The floods were caused by heavy rainfall and overflowing rivers and dams.
+
+**2. Numerical Data:**
+
+*   Rainfall was 42% higher than normal.
+*   Over 1 million people were displaced.
+*   Over 483 lives were lost.
+*   Economic losses were estimated to be over $3 billion.
+
+**3. Geographic Impact:**
+
+*   The floods affected all 14 districts of the state.
+*   Some of the worst affected areas were Alappuzha, Ernakulam, Thrissur, and Wayanad.
+
+**4. Response Details:**
+
+*   The Indian Army, Navy, and Air Force were mobilized to help with rescue and relief efforts.
+*   The Kerala government launched a massive relief operation, providing food, shelter, and medical assistance.
+*   Civil society organizations, NGOs, and private companies provided donations and support.
+*   The government set up relief camps and distribution centers.
+
+**5. Official Statements:**
+
+*   According to the India Meteorological Department, the state received 42% more rainfall than usual during June to August 2018.

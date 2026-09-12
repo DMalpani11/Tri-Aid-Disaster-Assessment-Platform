@@ -1,0 +1,24 @@
+```json
+{
+  "event_name": "Alappuzha floods",
+  "start_date": "2018-08-08",
+  "end_date": "2018-08-15",
+  "sources": [
+    {
+      "url": "https://www.onmanorama.com/kerala/news/2018/08/30/kerala-floods-2018-dams-vs-rains-causes.html",
+      "title": "Damned by the dams or rains? | Kerala floods 2018 - Onmanorama",
+      "description": "The opposition blamed poor dam management by the Irrigation Department and KSEB for the disaster, noting the IMD's heavy rainfall warning from August 8-15 [2]."
+    },
+    {
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAI6oe9Cqul6P06qTgPiItwX6hMzMe9zPM1VnSMcj-Xka5lbrMStKXO0Urb21W-Vf8DezusMqRU-kJFYr4TYr1U05N_eSUtQCLgeH6ELg5NHIuVXIr7wYQDxjFDW9DD8aciLK3cmBb7iiwkHSMGqFgGDnu4=",
+      "title": "Flood in India on 09 August, 2018 - Sentinel Asia",
+      "description": "The situation in Kerala worsened by August 10, 2018, as all five sluice gates of the Idukki dam were opened, submerging vast areas. Eight districts, including Alappuzha, were on red alert [3]."
+    },
+    {
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAJ3A4XnP7kw-46K6j8uDIqDpAHq1mDPnSZ9oMSwgEVoCuRZzkX2rV27EVix0xyok7xYEc0iAmPkMh-ln5JkrLuc-lg8mkY1nIGnACUpRXJxMSwlB2Cmr1lVW118X4wjCISfvwwsyhSJryA=",
+      "title": "Kerala Floods 2018 - NIDM",
+      "description": "Kerala experienced its worst floods between June 1 and August 19, 2018, receiving 42% excess rainfall. From August 8-17, the state had another spell of active rainfall.  Alappuzha was one of the seven severely affected districts [4]."
+    }
+  ]
+}
+```

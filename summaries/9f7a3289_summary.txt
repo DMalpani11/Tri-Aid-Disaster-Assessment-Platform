@@ -1,0 +1,13 @@
+URL: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAIwcizCkKFsd25juzuPgSS0vE8skSPHFse-7AAfZ9hwG92aE123xlDCdz7S8s9tmTIIddPPC2ag9Xpu54GnV2scj9HEkms8fwNNGzRRO148-0FN8fLy773QQJkoVRPfOfOQrhs8Wz88rMA=
+
+Based on the provided text, it is impossible to provide a comprehensive summary of the disaster event in Kerala in 2018. The text only indicates a **failed attempt to scrape content from a specific URL related to the Kerala floods of 2018.**
+
+Here's what we *can* glean from the information:
+
+1.  **What happened:** A disastrous flood event occurred in Kerala. (The URL name includes "KeralaFlood_18.pdf")
+
+2.  **When it happened:** The event took place in 2018.
+
+The attempted scrape failed due to an SSL certificate verification error, which prevented the system from accessing the PDF document located at `nidm.gov.in/PDF/pubs/KeralaFlood_18.pdf`. This document likely contained information about the flood, including details about its impact, response efforts, and current status, but the system couldn't retrieve it. Therefore, no information about casualties, damage, displaced people, response efforts, or the current status of the situation can be extracted.
+
+In short, the text confirms that a flood occurred in Kerala in 2018, and that a document containing information on the event exists on `nidm.gov.in`, but technical difficulties prevented its content from being accessed.

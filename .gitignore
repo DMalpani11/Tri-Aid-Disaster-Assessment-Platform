@@ -1,0 +1,31 @@
+﻿# Environment variables and secrets
+.env
+*.env
+*.env.local
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Vector DB & local storage
+chroma_db/
+chroma.sqlite3
+
+# Scraper logs and temp files
+scraper_logs/
+temp_*.json
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
